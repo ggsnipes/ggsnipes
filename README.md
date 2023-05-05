@@ -1,6 +1,6 @@
 ## Hi!
 
-Hi, I'm Amal, currently a student at General Assembly in their Software Engineering Immersive course.
+Hi, I'm Amal, currently a Junior Software Engineer aspiring to improve.
 
 I'm currently learning and solidifying knowledge in Javascript, HTML and CSS while using frameworks such as React. I'm also currently studying to pick up C# with the .Net Framework and possibly some other languages in the future. 
 
